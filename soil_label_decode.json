@@ -1,0 +1,36 @@
+{
+    "encode": {
+        "Alluvial soil": 0,
+        "Black soil": 1,
+        "Clayey soils": 2,
+        "Delta alluvium": 3,
+        "Desert soil": 4,
+        "Desert soils": 5,
+        "Inceptisols": 6,
+        "Laterite soil": 7,
+        "Loamy soil": 8,
+        "Mountain soil.": 9,
+        "Red soil": 10,
+        "Regur soil": 11,
+        "Sandy Clay loam": 12,
+        "Sandy loam": 13,
+        "Sandy soil": 14
+    },
+    "decode": {
+        "0": "Alluvial soil",
+        "1": "Black soil",
+        "2": "Clayey soils",
+        "3": "Delta alluvium",
+        "4": "Desert soil",
+        "5": "Desert soils",
+        "6": "Inceptisols",
+        "7": "Laterite soil",
+        "8": "Loamy soil",
+        "9": "Mountain soil.",
+        "10": "Red soil",
+        "11": "Regur soil",
+        "12": "Sandy Clay loam",
+        "13": "Sandy loam",
+        "14": "Sandy soil"
+    }
+}
